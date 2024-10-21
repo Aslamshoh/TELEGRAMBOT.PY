@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Создаем объект бота с вашим API-токеном
-bot = telebot.TeleBot('7590490496:AAETpFAQV7Y8ViTSVdvkbhuoZVT4-mrYRZ0')
+bot = telebot.TeleBot('')
 
 # Токен для оплаты, полученный от BotFather
 PAYMENT_PROVIDER_TOKEN = 'YOUR_PAYMENT_PROVIDER_TOKEN'
